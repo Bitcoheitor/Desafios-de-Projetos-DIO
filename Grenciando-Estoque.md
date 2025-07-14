@@ -13,7 +13,6 @@ O primeiro número representa a operação desejada:
 1 para adicionar ao estoque.
 2 para retirar do estoque.
 O segundo número representa a quantidade da operação.
-
 ## Saída
 O programa deve exibir uma das seguintes saídas:
 
