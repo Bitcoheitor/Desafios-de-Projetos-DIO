@@ -7,7 +7,6 @@ A entrada consiste em dois valores:
 
 Um número decimal representando o valor da compra (por exemplo, 100.00).
 Uma string representando o código do cupom (por exemplo, "DESCONTO10" ou "DESCONTO20").
-
 ## Saída
 A saída deve ser uma string no formato:
 
