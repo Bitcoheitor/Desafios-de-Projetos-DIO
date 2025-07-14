@@ -1,4 +1,4 @@
-# Descrição
+## Descrição
 Você está simulando um controle simples de estoque. O sistema começa com um estoque inicial de 5 unidades.
 
 O usuário pode escolher entre duas opções:
