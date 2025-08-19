@@ -1,5 +1,7 @@
 ## Descrição
-Neste desafio, você irá simular um carrinho de compras. O usuário informará quantos produtos ele deseja adicionar ao carrinho e, em seguida, será solicitado que ele insira os nomes desses produtos. O programa deve encerrar automaticamente quando o número de produtos informados for atingido e exibir a lista final de itens no carrinho.
+Neste desafio, você irá simular um carrinho de compras. 
+O usuário informará quantos produtos ele deseja adicionar ao carrinho e, em seguida, será solicitado que ele insira os nomes desses produtos. 
+O programa deve encerrar automaticamente quando o número de produtos informados for atingido e exibir a lista final de itens no carrinho.
 
 O programa deve se comportar da seguinte forma:
 
